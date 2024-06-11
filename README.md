@@ -39,6 +39,3 @@ pip install -r requirements.txt
 ```ruby
 streamlit run app.py
 ```
-
-# hotel
-# hotel
